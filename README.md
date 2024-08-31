@@ -29,7 +29,7 @@ _The system is able to speak to a user on the following questions by the compute
   ![gkquizpic](https://github.com/user-attachments/assets/1c8cc3d7-a09a-429f-978a-64596d274556)
  
 
-_There a other things like creating database, calculator, and so on. 🙂_
+_There are other things like creating database, calculator, etc which can be tried as well. 🙂_
 
 
 
