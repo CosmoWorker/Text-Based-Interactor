@@ -1,32 +1,35 @@
 # Text-Based-Interactor
-<br>
-This is a fun little project using python and MySQL database. 
-<br>
-The system is able to speak to a user on the following questions by the computer and also have the user given choices which he may choose from them. It also engages the user in varied activities ranging from games to creating tables, records and so on.
+
+_This is a fun little project using python and MySQL database._
+
+_The system is able to speak to a user on the following questions by the computer and also have the user given choices which he may choose from them. It also engages the user in varied activities ranging from games to creating tables, records and so on._
 
 **Snippets**
-<br>
-1. Intro & Exit
-<br>
-![image](https://github.com/user-attachments/assets/e9ceeec3-cc74-449c-ad1e-d82f1491ed1a)
-<br>
-2. Searching Internet
-<br>
-![image](https://github.com/user-attachments/assets/df8b5877-b5fb-4f63-a63c-2d35c0c824c8)
-<br>
-3. Creating tables- excell
-<br>
-![image](https://github.com/user-attachments/assets/05f3d63a-e684-4039-adcd-9e381aaf1a24)
-![image](https://github.com/user-attachments/assets/0ad8d056-f38b-4207-8b51-bb46ae3e56f0)
-![image](https://github.com/user-attachments/assets/5170c81b-a3ae-4db8-b03c-2bcf3a8c9dfc)
-<br>
-4. Mini-games & Quizzes
-<br>
-![image](https://github.com/user-attachments/assets/3f0fa8f1-ddbb-4a2b-a4d8-c9d2cc0e18c3)
-![image](https://github.com/user-attachments/assets/e4d73024-fe4f-4b4e-9c9e-81579868cfbe)
-<br> 
 
-There a other things like creating database, calculator, and so on. 🙂
+1. Intro & Exit
+
+  ![Picture2](https://github.com/user-attachments/assets/9a3b233c-8a8f-4842-a6eb-9ba2dee5e40d)
+
+2. Searching Internet
+
+  ![Picture3](https://github.com/user-attachments/assets/74febba2-c974-4ba4-821a-a35e9d797582)
+
+3. Creating tables- excell
+
+  ![excellpic1](https://github.com/user-attachments/assets/c44ab0b4-2c4b-4614-8065-04cab13452c0)
+
+  ![Screenshot 2024-08-31 123140](https://github.com/user-attachments/assets/daff9699-7dff-4d42-b94f-26b4ac23410a)
+
+  ![excellTablepic](https://github.com/user-attachments/assets/8f49a4c6-ca35-47fb-bfcb-1bea44487c07)
+
+4. Mini-games & Quizzes
+
+  ![minigamepic](https://github.com/user-attachments/assets/89f33109-1ab1-4599-99b7-313153152e77)
+
+  ![gkquizpic](https://github.com/user-attachments/assets/1c8cc3d7-a09a-429f-978a-64596d274556)
+ 
+
+_There a other things like creating database, calculator, and so on. 🙂_
 
 
 
